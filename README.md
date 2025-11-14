@@ -41,12 +41,12 @@ The final model achieves:
 ```
 📦 Calorie-Expenditure-Prediction
 ├── calorie_prediction.py       # Main ML script (Colab notebook converted to .py)
-├── submission.csv              # Final Kaggle submission (optional)
+├── submission.csv              # Final Kaggle submission
 ├── README.md                   # Project documentation
-├── report.pdf / report.tex     # EONVERSE submission report (if included)
+├── Mini Machine Learning Experiment,pdf     # EONVERSE submission report
 └── assets/
        ├── leaderboard.png      # Kaggle leaderboard screenshot
-       └── workflow.png         # Workflow diagram (optional)
+       └── workflow.png         # Workflow diagram
 ```
 
 ---
@@ -222,6 +222,3 @@ For queries or collaboration:
 **Debanuj Roy**
 Email: <a href="debanujroy1234@gmail.com">debanujroy1234@gmail.com</a>
 LinkedIn: <a href="www.linkedin.com/in/debanuj-roy-b3709b275">www.linkedin.com/in/debanuj-roy-b3709b275</a> 
-
-
-Just tell me!
